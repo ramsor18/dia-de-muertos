@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 230" role="img" aria-label="Veladora encendida">
+<defs><radialGradient id="g"><stop offset="0" stop-color="#FBBF24" stop-opacity=".7"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient></defs>
+<circle cx="60" cy="52" r="52" fill="url(#g)"/>
+<path d="M60 14 C 76 38 80 52 60 70 C 40 52 44 38 60 14 Z" fill="#F58A07"/>
+<path d="M60 38 C 68 50 69 58 60 66 C 51 58 52 50 60 38 Z" fill="#FBBF24"/>
+<line x1="60" y1="70" x2="60" y2="84" stroke="#1B1033" stroke-width="3" stroke-linecap="round"/>
+<path d="M30 86 H90 V196 H30 Z" fill="#F8F1E0" stroke="#1B1033" stroke-width="3"/>
+<path d="M30 86 H90 V96 q-8 14 -14 0 q-8 18 -16 0 q-10 20 -18 0 q-8 10 -12 0 Z" fill="#FFFFFF" stroke="#1B1033" stroke-width="2"/>
+<rect x="30" y="140" width="60" height="14" fill="#D6226E"/>
+<path d="M12 196 H108 L98 216 H22 Z" fill="#12B5A6" stroke="#1B1033" stroke-width="3" stroke-linejoin="round"/>
+</svg>

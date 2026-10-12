@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 230" role="img" aria-label="Sahumerio con copal humeante">
+<g fill="none" stroke="#F8F1E0" stroke-width="6" stroke-linecap="round" opacity=".75">
+<path d="M80 110 C 50 90 110 70 80 48 C 60 32 90 18 80 6"/>
+<path d="M60 112 C 36 98 78 84 58 66"/><path d="M102 112 C 126 96 88 84 108 66"/></g>
+<path d="M26 138 H134 C 134 186 110 206 80 206 C 50 206 26 186 26 138 Z" fill="#B5502A" stroke="#1B1033" stroke-width="4"/>
+<path d="M30 156 H130" stroke="#FBBF24" stroke-width="7"/>
+<path d="M36 172 L48 162 L60 172 L72 162 L84 172 L96 162 L108 172 L120 162" fill="none" stroke="#12B5A6" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="80" cy="138" rx="54" ry="11" fill="#3B2217" stroke="#1B1033" stroke-width="4"/>
+<circle cx="70" cy="136" r="5" fill="#F58A07"/><circle cx="88" cy="137" r="4" fill="#FBBF24"/><circle cx="80" cy="134" r="3" fill="#fff"/>
+<rect x="56" y="206" width="48" height="12" rx="5" fill="#1B1033"/>
+</svg>
